@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Contributor
+Bundle-SymbolicName: com.sab.training.sayHello.contributor;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: SAB
+Automatic-Module-Name: com.sab.training.sayHello.contributor
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: com.sabir.training.rcp.extension.provider;bundle-version="1.0.0"
